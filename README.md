@@ -1,7 +1,7 @@
 ### Hi! :wave:
-I'm Shitangdama.
-Devops & Development
-Golang & Python & Ruby & JavaScript
+- I'm Shitangdama.
+- Devops & Development
+- Golang & Python & Ruby & JavaScript
 
 
 
