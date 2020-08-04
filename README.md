@@ -1,4 +1,4 @@
-<h1 align='center'> Hi! :wave:</h1>
+### Hi! :wave:
 I'm Shitangdama.
 Devops & Development
 Golang & Python & Ruby & JavaScript
