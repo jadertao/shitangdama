@@ -6,7 +6,7 @@ Devops & Development
 
 Golang & Python & Ruby & JavaScript
 
-Building a new Cloud
+Building a new cloud application
 
 Wechat: shitang_dama
 
